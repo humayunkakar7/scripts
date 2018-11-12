@@ -250,7 +250,7 @@ def sigint(signal, frame):
 
 signal.signal(signal.SIGINT, sigint)
 
-worker = RequestTracker('http://decisions.mit.edu', 60)
+worker = RequestTracker('http://facebook.com', 60)
 worker.enableVerbosity()
 
 worker.setGraphFilename('graph.svg')
