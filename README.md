@@ -1,3 +1,7 @@
+Usage: 
+========================
+run `python XXXX.py` in the command line to run the game. Make sure you have Python 3.X.X and that your environment variables are set up correctly.
+
 RequestTracker
 ==============
 
@@ -32,6 +36,7 @@ dungeonGame.py
 
 The objective of this game is to move around in the dungeon and find the door to escape. Beware of the monster! If you run into him, you will die!
 
-Usage: 
-========================
-run `python dungeonGame.py` in the command line to run the game. Make sure you have Python 3.X.X and that your environment variables are set up correctly.
+journal.py
+==============
+This is a journal application that saves any entries that you write and allows use to search, update, and delete entries.
+
