@@ -1,6 +1,6 @@
 Usage: 
 ========================
-run `python XXXX.py` in the command line to run the game. Make sure you have Python 3.X.X and that your environment variables are set up correctly.
+run `python XXXX.py` in the command line to run the script. Make sure you have Python 3.X.X and that your environment variables and dependencies are set up correctly.
 
 RequestTracker
 ==============
