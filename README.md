@@ -40,3 +40,13 @@ journal.py
 ==============
 This is a journal application that saves any entries that you write and allows use to search, update, and delete entries.
 
+StarYourFriends
+==============
+
+Want to star all the repo's of your friend?
+
+This is a simple python script in which you enter your friend's username and it automatically stars all the repositories made by your friend up till now. It intelligently not stars the forks your friend did.
+
+- Should work on Python 2 and Python 3.
+
+
