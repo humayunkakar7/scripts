@@ -49,4 +49,10 @@ This is a simple python script in which you enter your friend's username and it 
 
 - Should work on Python 2 and Python 3.
 
+MonstersGame
+==============
+- Usage: run `python game.py` in the command line to run the game. Make sure you have Python 3.X.X and that your environment variables are set up correctly.
+
+- The objective of this game is to defeat the monsters that are coming at you. You have various options, including attacking and resting to heal.
+
 
