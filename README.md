@@ -7,6 +7,26 @@ RequestTracker
 
 Collects information about how long it takes a website to respond in variable increments and prints a pretty graph of response time in milliseconds with respect to time recorded.
 
+StarYourFriends
+==============
+
+Want to star all the repo's of your friend?
+
+This is a simple python script in which you enter your friend's username and it automatically stars all the repositories made by your friend up till now. It intelligently not stars the forks your friend did.
+
+- Should work on Python 2 and Python 3.
+
+MonstersGame
+==============
+- Usage: run `python game.py` in the command line to run the game. Make sure you have Python 3.X.X and that your environment variables are set up correctly.
+
+- The objective of this game is to defeat the monsters that are coming at you. You have various options, including attacking and resting to heal.
+
+processList.py
+==============
+
+Returns a list of active processes along with their information on a Linux system.
+
 cricket.py
 ==============
 
@@ -39,20 +59,4 @@ The objective of this game is to move around in the dungeon and find the door to
 journal.py
 ==============
 This is a journal application that saves any entries that you write and allows use to search, update, and delete entries.
-
-StarYourFriends
-==============
-
-Want to star all the repo's of your friend?
-
-This is a simple python script in which you enter your friend's username and it automatically stars all the repositories made by your friend up till now. It intelligently not stars the forks your friend did.
-
-- Should work on Python 2 and Python 3.
-
-MonstersGame
-==============
-- Usage: run `python game.py` in the command line to run the game. Make sure you have Python 3.X.X and that your environment variables are set up correctly.
-
-- The objective of this game is to defeat the monsters that are coming at you. You have various options, including attacking and resting to heal.
-
 
