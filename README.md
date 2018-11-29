@@ -50,7 +50,7 @@ Downloads Lectures from McGill's lecture recording system. Developed by a friend
 playlist_content.py
 ==============
 
-Takes soundcloud playlist link (eg: https://soundcloud.com/mikaelmoberg/sets/kygo) 
+Takes soundcloud playlist link 
 
 dungeonGame.py
 ==============
