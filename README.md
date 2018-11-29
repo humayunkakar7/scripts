@@ -60,3 +60,7 @@ journal.py
 ==============
 This is a journal application that saves any entries that you write and allows use to search, update, and delete entries.
 
+info.py
+==============
+
+A simple IP lookup tool. Also checks if an ip is a tor exit node.
