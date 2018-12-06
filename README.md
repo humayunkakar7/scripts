@@ -65,3 +65,8 @@ info.py
 ==============
 
 A simple IP lookup tool. Also checks if an ip is a tor exit node.
+
+s2nb.py
+==============
+
+Converts a python script to a Jupyter Notebook
