@@ -2,47 +2,47 @@ Usage:
 ========================
 run `python XXXX.py` in the command line to run the script. Make sure you have Python 3.X.X and that your environment variables and dependencies are set up correctly.
 
-#cricket.py
+## cricket.py
 ==============
 
 Collects cricket scores from international matches organized by the ICC. 
 
-#dam_fund.py
+## dam_fund.py
 ==============
 
 Fetches the amount of donation funds raised so far by the Pakistani Commission for building dams in the country amid the water shortages due to impacts of climate change.
 
-#dungeonGame.py
+## dungeonGame.py
 ==============
 
 The objective of this game is to move around in the dungeon and find the door to escape. Beware of the monster! If you run into him, you will die!
 
-#grablrs.py
+## grablrs.py
 ==============
 
 Downloads Lectures from McGill's lecture recording system. Developed by a friend.
 
-#info.py
+## info.py
 ==============
 
 A simple IP lookup tool. Also checks if an ip is a tor exit node.
 
-#insta.py
+## insta.py
 ==============
 
 Python script to download all instagram photos of a user.
 
-#journal.py
+## journal.py
 ==============
 This is a journal application that saves any entries that you write and allows use to search, update, and delete entries.
 
 
-#request_tracker.py
+## request_tracker.py
 ==============
 
 Collects information about how long it takes a website to respond in variable increments and prints a pretty graph of response time in milliseconds with respect to time recorded.
 
-#starYourFriends
+## starYourFriends
 ==============
 
 Want to star all the repo's of your friend?
@@ -51,24 +51,24 @@ This is a simple python script in which you enter your friend's username and it 
 
 - Should work on Python 2 and Python 3.
 
-#MonstersGame
+## MonstersGame
 ==============
 
 - Usage: run `python game.py` in the command line to run the game. Make sure you have Python 3.X.X and that your environment variables are set up correctly.
 
 - The objective of this game is to defeat the monsters that are coming at you. You have various options, including attacking and resting to heal.
 
-#playlist_content.py
+## playlist_content.py
 ==============
 
 Takes soundcloud playlist link 
 
-#processList.py
+## processList.py
 ==============
 
 Returns a list of active processes along with their information on a Linux system.
 
-#s2nb.py
+## s2nb.py
 ==============
 
 Converts a python script to a Jupyter Notebook
