@@ -69,6 +69,9 @@ This is a simple python script in which you enter your friend's username and it 
 
 - The objective of this game is to defeat the monsters that are coming at you. You have various options, including attacking and resting to heal.
 
+## pdf.py
+
+
 ## playlist_content.py
 
 ***
@@ -87,4 +90,5 @@ Returns a list of active processes along with their information on a Linux syste
 
 Converts a python script to a Jupyter Notebook
 
+## twitdel.py
 
